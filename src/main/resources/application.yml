@@ -1,0 +1,16 @@
+configuration:
+  images:
+    thumbnail:
+      height: 123
+      width: 321
+      quality: 20
+      scaletype: CROP
+      fillColor: 0x2e3241
+      type: JPG
+    detail-large:
+      height: 789
+      width: 987
+      quality: 20
+      scaletype: SKEW
+      fillColor: 0x2e3241
+      type: PNG
